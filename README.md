@@ -3,9 +3,8 @@
 ### Olá! Eu sou o Emerson Araujo 👋
 
 
-[![Blog](https://img.shields.io/website?label=MeuSite.com&style=for-the-badge&url=https://meusite.com/)](https://meusite.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://meuyoutube.com.br)
-[![Linkkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://meulinkeedin.com.br)
+[![Blog](https://img.shields.io/website?label=emersondev.com.br&style=for-the-badge&url=http://emersondev.com.br//)](http://emersondev.com.br)
+[![Linkkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emer5om/)
 
 ![Emerson Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=emer5om&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emer5om&layout=compact)](https://github.com/emer5om/)
