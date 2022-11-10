@@ -25,7 +25,7 @@
 Apaixonado por tecnologia. 🚀
 
 ### Últimos Projetos:
-- [Bikekraft - HTML & CSS](https://linkprojeto.com)<br/>
+- [Bikecraft - HTML & CSS](emersondev.com.br/bikecraft)<br/>
 <!-- - [O que estudar para se tornar um desenvolvedor front-end? 2021](https://youtu.be/Ab-kGzlCCWI)<br/>
 - [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
 - [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/> -->
